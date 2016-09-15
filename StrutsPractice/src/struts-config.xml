@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+                               "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+<struts>
+<package name="default" extends="struts-default">
+<action name="gettutorials"class="Com.struts.Action.TutorialsAction">
+<result name="sucess">/sucess.jsp</result>
+<result name="failure">/failure.jsp</result>
+</action>
+</package>   
+</struts>                            

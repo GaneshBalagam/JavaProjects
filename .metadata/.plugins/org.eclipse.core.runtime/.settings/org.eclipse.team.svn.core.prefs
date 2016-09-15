@@ -1,0 +1,6 @@
+#Sun Oct 27 17:25:30 IST 2013
+eclipse.preferences.version=1
+repositories/b0d48cadfe3e001315649fae5f9cc565=b0d48cadfe3e001315649fae5f9cc565;https\://xp-dev.com/svn/IT_SERVICEHELPDESK/ITSERVICE;https\://xp-dev.com/svn/IT_SERVICEHELPDESK/ITSERVICE;branches;tags;trunk;true;;;;false;;;0
+repositories/40d94a80f73e00131200a91595c64e5b=40d94a80f73e00131200a91595c64e5b;https\://xp-dev.com/svn/AttendenceTrackingSystem/ATS;https\://xp-dev.com/svn/AttendenceTrackingSystem/ATS;branches;tags;trunk;true;;;;false;;;0
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true

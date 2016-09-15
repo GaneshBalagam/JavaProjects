@@ -1,0 +1,5 @@
+127.0.0.1 - - [25/Apr/2015:16:12:37 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [25/Apr/2015:16:14:03 +0530] "GET /StrutsPractice/ HTTP/1.1" 404 981
+0:0:0:0:0:0:0:1 - - [25/Apr/2015:16:14:34 +0530] "GET /StrutsPractice/gettutorials.action HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [25/Apr/2015:16:14:49 +0530] "GET /StrutsPractice/gettutorials.action HTTP/1.1" 404 1019
+127.0.0.1 - - [25/Apr/2015:16:15:30 +0530] "GET / HTTP/1.1" 404 951

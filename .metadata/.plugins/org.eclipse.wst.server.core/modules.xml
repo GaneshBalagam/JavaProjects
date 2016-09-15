@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:SampleProject" serverId="Tomcat v6.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ITSERVICE" serverId="Tomcat v6.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:PracticeProject" serverId="Tomcat v6.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:SampleOperations" serverId="Tomcat v6.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:ATS" serverId="Tomcat v6.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:DailyExpenditures" serverId="Tomcat v6.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:StrutsPractice" serverId="Apache Tomcat v7.0  at localhost (2)"/>
+</modules>

@@ -1,0 +1,27 @@
+INDEX VERSION 1.126
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1748422713.index
+\SampleOperations\src
+E:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3946325952.index
+\SampleOperations\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1512133270.index
+\SampleProject\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3847335530.index
+\ATS\src
+E:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3372167782.index
+\PracticeProject\src
+E:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1833925165.index
+\StrutsPractice\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1282881316.index
+\DailyExpenditures\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3946325952.index
+\SampleOperations\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3397098989.index
+\ITSERVICE\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1469316490.index
+\ATS\src
+E:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1748422713.index
+\SampleOperations\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1838596241.index
+\LoginSample\src
+D:\WorkSpaceForEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3372167782.index
+\PracticeProject\src

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;config.properties&apos; to &apos;SampleOperations/src&apos;&#x0D;&#x0A;- Original project: &apos;SampleProject&apos;&#x0D;&#x0A;- Destination element: &apos;SampleOperations/src&apos;&#x0D;&#x0A;- Original element: &apos;config.properties&apos;" description="Copy file" destination="=SampleOperations/src" element1="config.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1383470781717" units="0" version="1.0"/>
+</session>

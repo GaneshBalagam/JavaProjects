@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490048011
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490059554
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490067813
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110510,"org.eclipse.equinox.p2.garbagecollector",1383490075553
+activated,editor,org.eclipse.wst.html.ui,1.0.601.v201108152113,"org.eclipse.wst.html.core.htmlsource.source",1383490102236
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1383490108508
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1383490120846
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490123475
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490130069
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490134188
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490135525
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1383490135536
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490140092
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490144584
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.1.v201108080010,"org.eclipse.jpt.jpa.ui",1383490149956
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1383490156010
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490158539
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490158692
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490165285
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490192451
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1383490199417
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490208496
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490214467
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383490220198
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490222038
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490228815
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383490228833
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490229256
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383490230207
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490230255
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490243716
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490247227
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490252990
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383490253003
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490255615
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490261792
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490263801
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1383490264125
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1383490264128
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1383490264145
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1383490264146
+started,bundle,org.polarion.eclipse.team.svn.connector.javahl16,3.0.1.I20130301-1700,"org.polarion.eclipse.team.svn.connector.javahl16",1383490264182
+started,bundle,org.polarion.eclipse.team.svn.connector.javahl17,3.0.1.I20130301-1700,"org.polarion.eclipse.team.svn.connector.javahl17",1383490264192
+started,bundle,org.polarion.eclipse.team.svn.connector.svnkit16,3.0.1.I20130301-1700,"org.polarion.eclipse.team.svn.connector.svnkit16",1383490264195
+started,bundle,org.polarion.eclipse.team.svn.connector.svnkit17,3.0.1.I20130301-1700,"org.polarion.eclipse.team.svn.connector.svnkit17",1383490264198
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1383490265953
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490269098
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490297032
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490297334
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490297470
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490332720
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490333048
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383490333054
+error,log,,,"Could not delete D:/WorkSpaceForEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SampleOperations/WEB-INF/lib/mysql-connector-java-5.1.21-bin.jar. May be locked by another process.",1383490334279
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490334313
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490336291
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490343539
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490352583
+error,log,,,"Could not delete D:/WorkSpaceForEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/SampleOperations/WEB-INF/lib/mysql-connector-java-5.1.21-bin.jar. May be locked by another process.",1383490354055
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490354083
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490355675
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1383490359584
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490365098
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490381837
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490384538
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490385649
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490393024
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383490398224
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490398271
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490399834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490400789
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490417763
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383490431178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490431214
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490431259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490436236
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490448895
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490453051
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490630015
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383490637157
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490637194
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490638601
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490639683
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490686672
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383490691148
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490695447
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383490696554
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490696590
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490701003
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490703072
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490740542
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490742638
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490955649
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490967500
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1383490968306
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1383490968411
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490968474
+closed,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490968476
+closed,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490968504
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1383490968536
+closed,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490968560
+closed,editor,org.eclipse.wst.css.ui,1.0.600.v201103022054,"org.eclipse.wst.css.core.csssource.source",1383490968568
+closed,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490968575
+closed,editor,org.eclipse.wst.html.ui,1.0.601.v201108152113,"org.eclipse.wst.html.core.htmlsource.source",1383490968601
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490972229
+opened,editor,org.eclipse.wst.html.ui,1.0.601.v201108152113,"org.eclipse.wst.html.core.htmlsource.source",1383490972426
+activated,editor,org.eclipse.wst.html.ui,1.0.601.v201108152113,"org.eclipse.wst.html.core.htmlsource.source",1383490972441
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490973154
+opened,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490973379
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490973404
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383490974476
+opened,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490974816
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490974839
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490978022
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490978029
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383490981541
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383490983786
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383490985992
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383490991091
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490991108
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490993044
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383490994531
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491028196
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491033225
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383491038261
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491038296
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491040038
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383491041299
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491048872
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491049966
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1383491049972
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491049972
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491053667
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491054060
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1383491054083
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491054083
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383491055185
+started,bundle,org.eclipse.wst.server.http.core,1.0.200.v20090429,"org.eclipse.wst.server.http.core",1383491059142
+started,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1383491059160
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491059173
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491059178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491059518
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491059549
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491064694
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491073057
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491073061
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491073119
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491073148
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491081363
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491085394
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491086853
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1383491086865
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config is missing. Check the server for errors.",1383491088478
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491088508
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491091107
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1383491093749
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491099189
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491123061
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383491125984
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491128655
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491129027
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491129071
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491129101
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491135786
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491144458
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491148217
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1383491148223
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1383491149356
+error,log,,,"Exception in Decorator. The 'Server State Decorator' decorator will be disabled.",1383491149359
+error,log,,,"java.lang.NullPointerException",1383491149360
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config is missing. Check the server for errors.",1383491149742
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491149747
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491149801
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383491149945
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491151148
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491151240
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491157677
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1383491164675
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1383491164683
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491164705
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383491166750
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491169123
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491169157
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491169175
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost (2)-config is missing. Check the server for errors.",1383491169209
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491170675
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383491171658
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491173056
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491173951
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491173960
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491174913
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491175334
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491175346
+activated,editor,org.eclipse.jst.jsp.ui,1.1.601.v201108151912,"org.eclipse.jst.jsp.core.jspsource.source",1383491176165
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491179104
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1383491187051
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491187080
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491187095
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383491192287
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491192295
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491193898
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491194859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491233613
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.launchShortcut.run",1383491237721
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost (2) are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1383491242761
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491242797
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491244299
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491246684
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491247835
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1383491247847
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491249091
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config is missing. Check the server for errors.",1383491249315
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491251768
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383491253752
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491254544
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491254805
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491254811
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383491255946
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383491256918
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1383491256950
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1383491258379
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491260081
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491260336
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1383491260346
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1383491263872

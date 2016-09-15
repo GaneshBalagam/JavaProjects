@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringCoreLib"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.context.support-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-3.0.5.RELEASE/dist/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/durga sofwares/Java DVD I/softwares/Framework Softwares/Spring/spring-framework-2.5.1/lib/jakarta-commons/commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
